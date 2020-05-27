@@ -1,0 +1,24 @@
+body{
+	background : linear-gradient(to right , #0000ff, #ff0000) ;
+	text-align: center;
+}
+h1{
+	font-family: 'Montez', cursive;
+	text-align: center;
+	font-size: 48px;
+	color: aliceblue;
+	letter-spacing: 0.3em;
+}
+h3{
+	font-family: 'Muli', sans-serif;
+	color: aliceblue;
+	letter-spacing: 0.2em;
+	margin-top: 5em;
+
+}
+input{
+	margin: 1rem;
+	height: 3rem;
+	width: 6rem;
+	
+}
